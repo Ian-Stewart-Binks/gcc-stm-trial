@@ -24,7 +24,6 @@ void insert(int val) {
 		}
 
 	}
-	printf("Node inserted\n");
 }
 
 static __attribute__((transaction_unsafe))
